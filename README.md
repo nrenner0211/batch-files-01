@@ -12,7 +12,7 @@
 
 ## About
 
-A collection of utilities to automate repetitive tasks.
+A collection of utilities to automate repetitive tasks, install software on new systems, and generally make life easier.
 
 ## Installation
 
